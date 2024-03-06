@@ -1,0 +1,6 @@
+astropy
+autopep8
+jupyterlab
+matplotlib
+numpy
+scipy
