@@ -1,3 +1,6 @@
 # ARPES-PYTHON-GUI
 
-This project is affiliated with Rutgers University, and specifically, Jak Chakhalian's research group. 
+The development done at the Chakhalian group, physics department, Rutgers University.
+
+Link to our website:
+https://quantum.rutgers.edu/ 
